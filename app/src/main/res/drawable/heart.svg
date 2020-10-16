@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64.033" height="64.042" viewBox="0 0 64.033 64.042">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_11" data-name="Rectangle 11" width="64.033" height="64.042" transform="translate(560.839 -5.521)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_16" data-name="Path 16" d="M610.311,6.394a12.793,12.793,0,0,0-6.8-1.978,13.315,13.315,0,0,0-10.654,5.509A13.315,13.315,0,0,0,582.2,4.417a12.8,12.8,0,0,0-6.8,1.978c-6.535,4.075-8.771,13.1-5,20.164,3.076,5.756,16.063,15.755,20.754,19.251a2.839,2.839,0,0,0,3.4,0c4.692-3.5,17.681-13.5,20.757-19.251C619.084,19.5,616.845,10.47,610.311,6.394Zm3.053,19.123c-2.305,4.315-11.909,12.4-20.128,18.522a.635.635,0,0,1-.762,0c-8.217-6.125-17.821-14.207-20.126-18.522-3.23-6.045-1.337-13.783,4.219-17.25A10.652,10.652,0,0,1,582.2,6.626a11.059,11.059,0,0,1,8.882,4.617l1.77,2.381,1.772-2.381a11.064,11.064,0,0,1,8.883-4.617,10.645,10.645,0,0,1,5.634,1.641C614.7,11.734,616.594,19.472,613.364,25.517Z" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Rectangle_10" data-name="Rectangle 10" width="52.993" height="53" transform="translate(566.359)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_91" data-name="Group 91" transform="translate(-560.839 5.521)">
+    <g id="Group_32" data-name="Group 32">
+      <g id="Group_31" data-name="Group 31" style="isolation: isolate">
+        <g id="Group_30" data-name="Group 30">
+          <g id="Group_29" data-name="Group 29" clip-path="url(#clip-path)">
+            <g id="Group_28" data-name="Group 28">
+              <g id="Group_27" data-name="Group 27" clip-path="url(#clip-path-2)">
+                <g id="Group_26" data-name="Group 26">
+                  <g id="Group_25" data-name="Group 25" clip-path="url(#clip-path-3)">
+                    <rect id="Rectangle_9" data-name="Rectangle 9" width="59.617" height="53" transform="translate(563.047 -1.104)" fill="#262626"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
